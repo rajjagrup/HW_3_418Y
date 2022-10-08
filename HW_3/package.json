@@ -1,0 +1,22 @@
+{
+  "name": "hw_3",
+  "version": "1.0.0",
+  "description": "HW 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajjagrup/HW_3_418y.git"
+  },
+  "author": "Raj Jagrup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajjagrup/HW_3_418y/issues"
+  },
+  "homepage": "https://github.com/rajjagrup/HW_3_418y#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
